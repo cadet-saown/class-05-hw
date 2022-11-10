@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    height: 500px;
+    background: red;
+    background:url(../img/2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 20px;
+    border: 20px solid orange;
+    border-top-style: ridge;
+
+    border-radius: 10px 20px;
+}
